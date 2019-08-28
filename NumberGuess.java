@@ -30,3 +30,8 @@ public class NumberGuess {
         System.out.println("End!!!");
     }
 }
+
+
+
+
+
